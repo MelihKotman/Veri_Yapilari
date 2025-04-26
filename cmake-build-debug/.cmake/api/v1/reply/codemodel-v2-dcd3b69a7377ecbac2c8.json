@@ -1,0 +1,240 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VeriYapilari",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "VY10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY10-Debug-9701a865ff06c32f74fb.json",
+					"name" : "VY10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY11-Debug-6829e3df1c785c0601de.json",
+					"name" : "VY11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY12-Debug-b49f491a6ceefbd21881.json",
+					"name" : "VY12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY13-Debug-acc864ec2fa29c7ffc82.json",
+					"name" : "VY13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY14-Debug-49d1700551a196a3cdb4.json",
+					"name" : "VY14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY15-Debug-4e864d495e438052ac4e.json",
+					"name" : "VY15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY16-Debug-cc4c57cc200247120eed.json",
+					"name" : "VY16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY17-Debug-efa987924df310b57be2.json",
+					"name" : "VY17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY18-Debug-14e45dac25b275eadc4e.json",
+					"name" : "VY18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY19-Debug-c40d1ef3afcee1980338.json",
+					"name" : "VY19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY2-Debug-9c0334cb285954a3f3af.json",
+					"name" : "VY2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY3-Debug-97cd831d62ff38784e9c.json",
+					"name" : "VY3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY4-Debug-40d61eec46ab1d0425d0.json",
+					"name" : "VY4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY5-Debug-902daba0c03866ab5c61.json",
+					"name" : "VY5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY6-Debug-75f8a6875b175e955e38.json",
+					"name" : "VY6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY7-Debug-f2e0c5a69c6a2ad97e5c.json",
+					"name" : "VY7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY8-Debug-1cab5804fd0ad33152da.json",
+					"name" : "VY8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VY9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VY9-Debug-40bb2826798d0fdec252.json",
+					"name" : "VY9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VYS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VYS-Debug-6aa771a51c10ff9c8d80.json",
+					"name" : "VYS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VeriYapilari::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VeriYapilari-Debug-904bdc8a55d0348a973c.json",
+					"name" : "VeriYapilari",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ozel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ozel-Debug-b60e32da8ab8bce6f6b3.json",
+					"name" : "ozel",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/melih/CLionProjects/VeriYapilari/cmake-build-debug",
+		"source" : "C:/Users/melih/CLionProjects/VeriYapilari"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
