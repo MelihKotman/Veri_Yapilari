@@ -1,4 +1,21 @@
-C:\Users\melih\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/melih/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\melih\CLionProjects\VeriYapilari -B C:\Users\melih\CLionProjects\VeriYapilari\cmake-build-debug
--- Configuring done (0.5s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/melih/CLionProjects/VeriYapilari/cmake-build-debug
+/Users/melih/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/melih/CLionProjects/Veri_Yapilari -B /Users/melih/CLionProjects/Veri_Yapilari/cmake-build-debug
+CMake Warning at /Users/melih/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/Platform/Darwin-Initialize.cmake:266 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Users/melih/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake:35 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is AppleClang 17.0.0.17000319
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.8s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/melih/CLionProjects/Veri_Yapilari/cmake-build-debug
